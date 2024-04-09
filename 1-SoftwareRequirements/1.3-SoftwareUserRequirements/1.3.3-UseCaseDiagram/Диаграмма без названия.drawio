@@ -1,10 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T18:43:58.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.2.3" etag="RdhSKfyTtdi6hOYVUh1Q" type="github">
-  <diagram name="Страница — 1" id="_2CShfXKPM5K82E1m9K-">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-04-07T12:00:00.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="YfiknFoebibGvUwL4T5Y" version="13.5.1" type="device">
+  <diagram name="UML Use Case Diagram" id="c5UMQ5QYZG93-kpDJDIK">
+    <mxGraphModel dx="990" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2" value="" style="shape=actor;verticalLabelPosition=bottom;verticalAlign=top;align=center;spacingTop=-20;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="ellipse;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="" style="shape=actor;verticalLabelPosition=bottom;verticalAlign=top;align=center;spacingTop=-20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=ellipse;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Зацікавлені особи з опису бізнес-вимог" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Віртуальні актори, пов'язані з роботою програмного продукту" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="220" y="240" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Зовнішні інформаційні сервіси зі своїм API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="460" y="140" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Фізіологічні потреби" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Відчуття безпеки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Відчуття приналежності до соціуму" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Самоактуалізація" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="480" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="2" target="9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="2" target="10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="2" target="11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="3" target="9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="4" target="10" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="5" target="11" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="4" target="12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="5" target="12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="3" target="12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
 </mxfile>
+
