@@ -29,60 +29,66 @@
           <mxGeometry x="460" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Психотерапевти" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="140" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="Користувач" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="340" y="440" width="120" height="40" as="geometry" />
+        <mxCell id="11" value="Користувачі" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="12" value="Зовнішні інформаційні сервіси" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="180" height="40" as="geometry" />
+          <mxGeometry x="460" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Прецедент 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="240" y="540" width="120" height="40" as="geometry" />
+        <mxCell id="13" value="Комплексне задоволення потреб" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Прецедент 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="440" y="540" width="120" height="40" as="geometry" />
+        <mxCell id="14" value="Прецедент 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Прецедент 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="15" value="Прецедент 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="Прецедент 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="640" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="3" target="2" parent="1">
+        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="3" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="4" target="2" parent="1">
+        <mxCell id="18" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="4" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="5" target="2" parent="1">
+        <mxCell id="19" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="5" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="6" target="2" parent="1">
+        <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="6" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="7" target="2" parent="1">
+        <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="7" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="8" target="2" parent="1">
+        <mxCell id="22" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="8" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="9" target="2" parent="1">
+        <mxCell id="23" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="9" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="10" target="2" parent="1">
+        <mxCell id="24" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="10" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="11" target="2" parent="1">
+        <mxCell id="25" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="11" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="12" target="2" parent="1">
+        <mxCell id="26" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="12" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="26" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="13" target="2" parent="1">
+        <mxCell id="27" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="13" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="27" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="14" target="2" parent="1">
+        <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="14" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="28" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="15" target="2" parent="1">
+        <mxCell id="29" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="15" target="2" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=none;html=1;" edge="1" source="16" target="2" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
